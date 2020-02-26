@@ -11,3 +11,4 @@ else:
         print("drink water")
         print("drink soda")
         print("drink cola")
+        print("drink pepsi")
